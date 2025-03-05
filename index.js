@@ -3,7 +3,7 @@ const path = require('path');
 const readline = require('readline');
 const axios = require('axios');
 const { generateWAMessageFromContent, proto } = require("@whiskeysockets/baileys")
-const correctKey = 'VREDEN V14'; 
+const correctKey = 'VREDEN 2025
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
